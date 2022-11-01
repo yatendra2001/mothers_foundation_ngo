@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72227321037",
+    "project_id": "mothersfoundationngo-12508",
+    "storage_bucket": "mothersfoundationngo-12508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72227321037:android:992e1770c1448a4ac46584",
+        "android_client_info": {
+          "package_name": "com.superawesomeapps.mothers_foundation_ngo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72227321037-tlqpgrfgo8q9oftjcdr0r7j4u4lg7a9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzvXvObg5t6UTFJp46VUfS87hBkbZoMNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72227321037-tlqpgrfgo8q9oftjcdr0r7j4u4lg7a9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
