@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.superawesomeapps.mothers_foundation_ngo">
    <application
-        android:label="mothers_foundation_ngo"
+        android:label="Mother Foundation"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
